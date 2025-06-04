@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Michael Inzana!
 
-Beginner Developer | Creative Problem Solver | Future AI Builder  
+Software Developer | Creative Problem Solver | Future AI Builder  
 Currently growing my skills in **web development** and moving toward **AI development**.
 
 ---
