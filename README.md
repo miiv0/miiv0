@@ -49,5 +49,5 @@ Currently growing my skills in **web development** and moving toward **AI develo
 ### 📫 Let's Connect!
 
 - 💼 LinkedIn: *https://www.linkedin.com/in/michael-inzana-5a15162a4/*  
-- 🌐 Portfolio: *WORK IN PROGRESS*  
+- 🌐 Portfolio: *https://miiv0.github.io/landing-page/* (Work in progress!)
 - 💬 Always open to feedback, collaborations, and new ideas!
