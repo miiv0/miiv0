@@ -1,5 +1,5 @@
-# <span style="color:red">👋 Hey, I'm Michael Inzana!</span>
-<span style="color:red">This text is red</span>
+# 👋 Hey, I'm Michael Inzana!
+
 Beginner Developer | Creative Problem Solver | Future AI Builder  
 Currently growing my skills in **web development** and moving toward **AI development**.
 
