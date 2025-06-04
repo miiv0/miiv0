@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Michael Inzana!
+# <span style="color:red">👋 Hey, I'm Michael Inzana!</span>
 
 Beginner Developer | Creative Problem Solver | Future AI Builder  
 Currently growing my skills in **web development** and moving toward **AI development**.
