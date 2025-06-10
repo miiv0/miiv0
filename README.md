@@ -29,10 +29,10 @@ Currently growing my skills in **web development** and moving toward **AI develo
 
 ### 📌 Projects I've Built:
 
+- 🤖 [AI Chatbot](https://github.com/miiv0/ai-chatbot) - A terminal-based AI chatbot with three personalities using Ollama
 - 🎨 [Landing Page](https://github.com/miiv0/landing-page) – Custom HTML/CSS site with responsive design  
 - 🕹️ [Etch-a-Sketch](https://github.com/miiv0/etchasketch) – Interactive drawing board using JavaScript  
 - ✊ [Rock Paper Scissors](https://github.com/miiv0/rockpaperscissors) – Browser-based game built with JavaScript
-- 🤖 [AI Chatbot](https://github.com/miiv0/ai-chatbot) - A terminal-based AI chatbot with three personalities using Ollama
 
 > *More projects on the way!*
 
