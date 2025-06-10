@@ -21,8 +21,6 @@ Currently growing my skills in **web development** and moving toward **AI develo
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
-
-*Starting to learn:*  
 ![Python](https://img.shields.io/badge/-Python-444?style=flat&logo=python)
 
 ---
