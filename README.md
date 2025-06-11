@@ -27,6 +27,7 @@ Currently growing my skills in **web development** and moving toward **AI develo
 
 ### 📌 Projects I've Built:
 
+- 🗺️ [Text Based Adventure game](https://github.com/miiv0/adventure-game) - A terminal-based adventure game with AI chatbot integration
 - 🤖 [AI Chatbot](https://github.com/miiv0/ai-chatbot) - A terminal-based AI chatbot with three personalities using Ollama
 - 🎨 [Landing Page](https://github.com/miiv0/landing-page) – Custom HTML/CSS site with responsive design  
 - 🕹️ [Etch-a-Sketch](https://github.com/miiv0/etchasketch) – Interactive drawing board using JavaScript  
