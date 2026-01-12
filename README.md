@@ -8,7 +8,7 @@ Currently growing my skills in **web development** and moving toward **AI develo
 ### 🧠 What I'm Doing Now.
 
 - 🛠️ Practicing HTML, CSS, and JavaScript by building fun projects  
-- 📚 Learning Python to start working on AI and machine learning  
+- 📚 Learning Python to start working on AI
 - 🎮 Building games and interactive web tools from scratch  
 - 👨‍💻 Committed to improving every single week
 
@@ -37,10 +37,8 @@ Currently growing my skills in **web development** and moving toward **AI develo
 
 ---
 
-### 🔜 What’s Next..
+### 🔜 What’s Next...
 
-- Learn machine learning with Scikit-learn and Jupyter notebooks  
-- Build a beginner AI project (maybe digit recognition or sentiment analysis)  
 - Improve my portfolio and start applying for jobs in tech
 
 ---
