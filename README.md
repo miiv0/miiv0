@@ -25,11 +25,9 @@ Currently growing my skills in **web development** and moving toward **AI develo
 
 ---
 
-### 📌 Projects I've Built:
+### 📌 Project Highlights:
 
-- 🗺️ [Text Based Adventure game](https://github.com/miiv0/adventure-game) - A terminal-based adventure game with AI chatbot integration
-- 🤖 [AI Chatbot](https://github.com/miiv0/ai-chatbot) - A terminal-based AI chatbot with three personalities using Ollama
-- 🎨 [Landing Page](https://github.com/miiv0/landing-page) – Custom HTML/CSS site with responsive design  
+- 🎨 [Portfolio](https://github.com/miiv0/portfolio) – Custom HTML/CSS site with responsive design  
 - 🕹️ [Etch-a-Sketch](https://github.com/miiv0/etchasketch) – Interactive drawing board using JavaScript  
 - ✊ [Rock Paper Scissors](https://github.com/miiv0/rockpaperscissors) – Browser-based game built with JavaScript
 
@@ -39,12 +37,12 @@ Currently growing my skills in **web development** and moving toward **AI develo
 
 ### 🔜 What’s Next...
 
-- Improve my portfolio and start applying for jobs in tech
+- Improve my portfolio and apply for jobs in tech
 
 ---
 
 ### 📫 Let's Connect!
 
 - 💼 LinkedIn: *https://www.linkedin.com/in/michael-inzana-5a15162a4/*  
-- 🌐 Portfolio: *https://miiv0.github.io/landing-page/* (Work in progress!)
+- 🌐 Portfolio: *https://miiv0.github.io/portfolio/*
 - 💬 Always open to feedback, collaborations, and new ideas!
