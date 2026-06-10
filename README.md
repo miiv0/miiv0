@@ -1,48 +1,32 @@
-# 👋 Hey, I'm Michael Inzana!
+## Hi, I'm Michael 👋
 
-Software Developer | Creative Problem Solver | Future AI Builder  
-Currently growing my skills in **web development** and moving toward **AI development**.
+Self-taught developer on a mission — working through The Odin Project, shipping real projects, and leveling up every single day. I care about writing clean, purposeful code and building things that actually work. Currently pursuing my AWS Cloud Practitioner certification while working toward a role in software engineering or tech consulting.
 
----
-
-### 🧠 What I'm Doing Now.
-
-- 🛠️ Practicing HTML, CSS, and JavaScript by building fun projects  
-- 📚 Learning Python to start working on AI
-- 🎮 Building games and interactive web tools from scratch  
-- 👨‍💻 Committed to improving every single week
+🌐 **Portfolio:** [miiv0.github.io/portfolio](https://miiv0.github.io/portfolio/)
 
 ---
 
-### 💻 Tech I've Used So Far:
+### 🛠️ Tech stack
 
-![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
-![Python](https://img.shields.io/badge/-Python-444?style=flat&logo=python)
-
----
-
-### 📌 Project Highlights:
-
-- 🎨 [Portfolio](https://github.com/miiv0/portfolio) – Custom HTML/CSS site with responsive design  
-- 🕹️ [Etch-a-Sketch](https://github.com/miiv0/etchasketch) – Interactive drawing board using JavaScript  
-- ✊ [Rock Paper Scissors](https://github.com/miiv0/rockpaperscissors) – Browser-based game built with JavaScript
-
-> *More projects on the way!*
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20(in%20progress)-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 ---
 
-### 🔜 What’s Next...
+### 🚀 Projects
 
-- Improve my portfolio and apply for jobs in tech
+| Project | Description | Link |
+|---|---|---|
+| 📚 The Library | Book tracker with localStorage persistence, detail modal, and randomized spine colors | [Live demo](https://miiv0.github.io/library/) |
+| 📈 Habit Tracker | Daily habit logging with streak visualization and a clean, minimal UI | [Live demo](https://miiv0.github.io/habit-tracker/) |
+| ✖️ Tic Tac Toe | Two-player game built with factory functions, IIFE pattern, and glassmorphism styling | [Live demo](https://miiv0.github.io/tictactoe/) |
 
 ---
 
-### 📫 Let's Connect!
-
-- 💼 LinkedIn: *https://www.linkedin.com/in/michael-inzana-5a15162a4/*  
-- 🌐 Portfolio: *https://miiv0.github.io/portfolio/*
-- 💬 Always open to feedback, collaborations, and new ideas!
+*Always building. Always learning.*
