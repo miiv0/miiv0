@@ -1,6 +1,6 @@
 ## Hi, I'm Michael 👋
 
-Self-taught developer on a mission. working through The Odin Project, shipping real projects, and leveling up every single day. I care about writing clean, purposeful code and building things that actually work. Currently finishing The Odin Project while working toward a role in software engineering or tech consulting.
+Self-taught developer on a mission. Working through The Odin Project, and improving every day. I care about writing clean, purposeful code and building things that actually work. Currently working on Javascript and React while working toward a role in software engineering or tech consulting.
 
 🌐 **Portfolio:** [miiv0.github.io/portfolio](https://miiv0.github.io/portfolio/)
 
